@@ -1,0 +1,35 @@
+{
+  "name": "react-hooks-presentation",
+  "version": "1.0.0",
+  "description": "Tips for React Hooks implemented in v16.8.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.0.2",
+    "hero-slider": "latest",
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-formalized": "1.2.0",
+    "react-png-button": "1.0.4",
+    "react-png-modal": "2.1.6",
+    "react-scripts": "3.0.1",
+    "react-syntax-highlighter": "10.3.0",
+    "styled-components": "4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
